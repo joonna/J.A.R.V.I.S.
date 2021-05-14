@@ -1,4 +1,5 @@
 These files were forked from: https://github.com/Kyubyong/tacotron
+All credit for this directory belongs to Kyubyong Park & Tommy Mulc
 
 
 # A (Heavily Documented) TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model
